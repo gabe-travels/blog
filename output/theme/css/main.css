@@ -1,0 +1,11 @@
+body {
+    background: #F5F4EF;
+    color: #000305;
+    padding: 10;
+    text-align: left;
+}
+
+a:link, a:visited {
+	color: #C74350;
+	text-decoration: underline;
+}

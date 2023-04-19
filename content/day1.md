@@ -10,10 +10,13 @@ Landed 22 mins ahead of schedule, at 15:53. I managed to stay awake the entire 1
 Exchanged some money and bought a ticket to Asakusa. On the train, spoke to a German Frau. She encouraged me to travel lots when young and able to rough it. Told me many of the young people at her company are (attempting to) defect to Google. Got to practice my sie-sen (sp?), which I almost never do.
 
 ### Arrive in Asakusa
-My first impression of Tokyo was that it was magical. I felt dreamy, perhaps also from lack of sleep. I walked by the buddhist temple, and snapped some quick photos. Bought an umbrella, for about $5. This umbrella had quite a nice spring to it, too.
+Emerging from the underground, the city looked magical. I felt dreamy, perhaps also from lack of sleep. I walked by the Asakusa temple, and snapped some quick photos. Bought an umbrella, for about $5, which had quite a nice spring to it.
 
-### The Hostel
-I had some ramen and waited at a cafe (which also happened to be a hostel). I decided to book a room there, rather than stay with my parents, since they are a little slow and got lost. At the hostel, I met Renald, the headmaster of a french highschool. He and some of the teachers leading a tour for their students. Also met Eli, who wants to become Youtube rich.
+### First Meal
+I decided to eschew Google Maps and walked into a local looking place. I had some ramen and dumplings. I looked up rating after the meal - 3.7. Rip.
+
+### Hostel
+Afterwards, I  waited at a cafe (which also happened to be a hostel). I decided to book a room there, rather than stay with my parents, since they are a little slow and got lost. At the hostel, I met Renald, the headmaster of a french highschool. He and some of the teachers leading a tour for their students. Also met Eli, who wants to become Youtube rich.
 
 ### The Parents
 Finally, my parents arrived, and I head over to their hotel which was just 3 minute walk. My parents have very little street sense - traffic and physics mean nothing to them. JETLAG IS NOT A VALID EXCUSE FOR WALKING INTO STREET.
