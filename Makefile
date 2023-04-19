@@ -1,4 +1,4 @@
 build:
-	pelican
+	pelican -t gringo
 clean:
 	rm -rf output

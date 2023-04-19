@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block body %}
+<h2> {{ article.title }} </h2>
+<b> date: {{ article.date.strftime("%Y-%m-%d") }} </b>
+<br>
+<b> category: {{ article.category }} </b>
+{{ article.content }}
+
+{% endblock %}
