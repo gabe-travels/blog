@@ -3,12 +3,17 @@ Date: 2023-04-15
 Category: Japan
 Summary: Arrive in the evening; Friendly Deutsch; Parents have no self-preservation!
 
-Landed 22 mins ahead of schedule, at 15:53. A JAL agent was waiting to see if I had the Vietnam visa, so he could help connect me. :(
+### Notes on flight
+Landed 22 mins ahead of schedule, at 15:53. I managed to stay awake the entire 12 hour flight. A JAL agent was waiting to see if I had the Vietnam visa, so he could help connect me. :(
 
-Exchanged some money and bought a ticket to Asakusa.
+### The Train
+Exchanged some money and bought a ticket to Asakusa. On the train, spoke to a German Frau. She encouraged me to travel lots when young and able to rough it. Told me many of the young people at her company are (attempting to) defect to Google. Got to practice my sie-sen (sp?), which I almost never do.
 
-I had some ramen and waited at a cafe (which also happened to be a hostel).
+### Arrive in Asakusa
+My first impression of Tokyo was that it was magical. I felt dreamy, perhaps also from lack of sleep. I walked by the buddhist temple, and snapped some quick photos. Bought an umbrella, for about $5. This umbrella had quite a nice spring to it, too.
 
-I decided to book a room there, rather than stay with my parents, since they are a little slow and got lost.
+### The Hostel
+I had some ramen and waited at a cafe (which also happened to be a hostel). I decided to book a room there, rather than stay with my parents, since they are a little slow and got lost. At the hostel, I met Renald, the headmaster of a french highschool. He and some of the teachers leading a tour for their students. Also met Eli, who wants to become Youtube rich.
 
-My parents have very little street sense - traffic and physics mean nothing to them. JETLAG IS NOT A VALID EXCUSE FOR WALKING INTO STREET.
+### The Parents
+Finally, my parents arrived, and I head over to their hotel which was just 3 minute walk. My parents have very little street sense - traffic and physics mean nothing to them. JETLAG IS NOT A VALID EXCUSE FOR WALKING INTO STREET.
