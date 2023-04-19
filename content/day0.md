@@ -4,9 +4,9 @@ Category: Japan
 Summary: Flight from BOS->NRT - trouble at airport :(
 
 #### The Morning
-Moved the remainder of my stuff into storage in Mudasir's basement. Got coffee/waffle with Baguette#2, my relucant host for the past 2 weeks.
+Moved the remainder of my stuff into storage in Mudasir's basement. Got coffee/waffle with my relucant host for the past 2 weeks.
 
-Stopped by the office, but didn't have time for breakfast. Completed a few chores with Baguette#1 acting as sherpa, including returning my 2 month overdue library books.
+Stopped by the office, but didn't have time for breakfast. Completed a few chores with Baggy acting as sherpa, including returning my 2 month overdue library books.
 
 Ride to airport with Weak Gym Partner. We roasted each other, a shallow facade for how we were really feeling.
 
