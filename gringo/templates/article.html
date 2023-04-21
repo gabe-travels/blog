@@ -1,5 +1,9 @@
 {% extends "base.html" %}
 
+{% block title %}
+{{ SITENAME }} - {{ article.title }}
+{% endblock %}
+
 {% block body %}
 <h2> {{ article.title }} </h2>
 <b> date: {{ article.date.strftime("%Y-%m-%d") }} </b>
