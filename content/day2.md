@@ -14,7 +14,7 @@ Western mythology influence from Alexander the Great. I noticed a lot of the god
 
 Most (~90%) Japanese are both Buddhist and Shinto. How to differentiate temple: shinto temple has arch outside with 2 veritcal and 2 horizontal beams. The funniest sign I saw (not this day, but another): "This is a buddhist temple, no double clap here", as there's a double bow, double clap, pray, another bow ritual which one perfoms at Shinto temple.
 
-Went to Matsuchiyama Syouden, where I ate shit after slipping on moss. There was a neat mini-monorail. My parents inexplicably bought a large turnip (we offered one at the temple for our family's prosperity).
+Went to Matsuchiyama Syouden, where I ate shit after slipping on moss. There was a neat mini-monorail. My parents inexplicably bought a large daikon (we offered one at the temple for our family's prosperity).
 
 I like the aesthetic of the old apartment buildings with exposed eletrical wires, somehow.
 
