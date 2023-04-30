@@ -1,7 +1,7 @@
-Title: Day 14
+Title: Scorched Pink Flesh
 Date: 2023-04-28
 Category: Vietnam
-Summary: Justice on the Bus; Ninh Binh is basically 100% British
+Summary: Justice on the Bus; Ninh Binh is basically 100% British; (Bus) Karoke?!
 
 ### Bus from Cat Ba to Ninh Binh
 #### Waiting
